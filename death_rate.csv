@@ -69,7 +69,7 @@ Gabon,GAB,8.270181818
 United Kingdom,GBR,9.045454545
 Georgia,GEO,13.03245455
 Ghana,GHA,7.958727273
-Gibraltar,GIB,#DIV/0!
+Gibraltar,GIB,0
 Guinea,GIN,10.039
 "Gambia, The",GMB,8.603272727
 Guinea-Bissau,GNB,10.881
@@ -86,7 +86,7 @@ Croatia,HRV,12.20909091
 Haiti,HTI,9.201181818
 Hungary,HUN,13.07272727
 Indonesia,IDN,6.544181818
-Isle of Man,IMN,#DIV/0!
+Isle of Man,IMN,0
 India,IND,7.346818182
 Ireland,IRL,6.309090909
 "Iran, Islamic Rep.",IRN,4.857363636
@@ -131,7 +131,7 @@ Malta,MLT,7.654545455
 Myanmar,MMR,8.552909091
 Montenegro,MNE,10.33763636
 Mongolia,MNG,6.422272727
-Northern Mariana Islands,MNP,#DIV/0!
+Northern Mariana Islands,MNP,0
 Mozambique,MOZ,11.18581818
 Mauritania,MRT,7.901
 Mauritius,MUS,7.645454545
@@ -146,7 +146,7 @@ Nicaragua,NIC,5.05
 Netherlands,NLD,8.436363636
 Norway,NOR,8.145454545
 Nepal,NPL,6.636090909
-Nauru,NRU,#DIV/0!
+Nauru,NRU,0
 New Zealand,NZL,6.785454545
 Oman,OMN,2.649454545
 Pakistan,PAK,7.307727273
@@ -187,7 +187,7 @@ Eswatini,SWZ,13.34709091
 Sint Maarten (Dutch part),SXM,4.46
 Seychelles,SYC,7.790909091
 Syrian Arab Republic,SYR,5.109363636
-Turks and Caicos Islands,TCA,#DIV/0!
+Turks and Caicos Islands,TCA,0
 Chad,TCD,13.56272727
 Togo,TGO,9.436636364
 Thailand,THA,7.333727273
@@ -198,7 +198,7 @@ Tonga,TON,7.196181818
 Trinidad and Tobago,TTO,7.969636364
 Tunisia,TUN,6.238818182
 Turkey,TUR,5.545090909
-Tuvalu,TUV,#DIV/0!
+Tuvalu,TUV,0
 Tanzania,TZA,8.050363636
 Uganda,UGA,8.363818182
 Ukraine,UKR,14.90909091
@@ -207,7 +207,7 @@ United States,USA,8.253909091
 Uzbekistan,UZB,4.889404844
 St. Vincent and the Grenadines,VCT,8.414636364
 "Venezuela, RB",VEN,6.085727273
-British Virgin Islands,VGB,#DIV/0!
+British Virgin Islands,VGB,0
 Virgin Islands (U.S.),VIR,7.090909091
 Vietnam,VNM,6.002181818
 Vanuatu,VUT,5.461818182
